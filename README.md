@@ -6,4 +6,4 @@ La metodología usada para llevar a cabo este proyecto fue seleccionar una probl
 Este proyecto consta de 3 secciones: 
 * En la primera parte se encuentra la problemática sobre la cual se trabajo. Se decidió qué datos eran mas relevantes para trabajar en el problema y como obtenerlos. 
 * En la segunda parte se realizo un Análisis Exploratorio de Datos sobre el dataset. 
-* * En la tercera parte se implementaron herramientas de Machine Learning para predecir la variable de interés.
+* En la tercera parte se implementaron herramientas de Machine Learning para predecir la variable de interés.
